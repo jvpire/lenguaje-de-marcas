@@ -1,0 +1,16 @@
+<pelicula>
+	<titulo>El Padrino</titulo>
+	<direccion>Francis Ford Coppola</direccion>
+	<guion>Frnacis Ford Coppola</guion>
+	<actores>
+		<actor><Marlon Brandon></actor>
+		<actor><Al Pacino></actor>
+	</actores>
+	<estreno>1972</estreno>
+	<pais>EEUU</pais>
+	<duracion>175min</duracion>
+	<generos>
+		<genero><drama></genero>
+		<genero><gangsters></genero>
+	</genero>
+</pelicula>
