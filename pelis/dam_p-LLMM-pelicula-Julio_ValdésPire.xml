@@ -1,0 +1,15 @@
+<pelicula>
+    <titulo>El irlandes</titulo>
+    <director>Martin Scorsese</director>
+    <descripcion>Frank Sheeran, veterano de la Segunda Guerra Mundial, estafador y asesino a sueldo recuerda su participación en el asesinato de Jimmy Hoffa. Uno de los grandes misterios sin resolver del país: la desaparición del legendario sindicalista Jimmy Hoffa. Un gran viaje por los turbios entresijos del crimen organizado: sus mecanismos internos, rivalidades y su conexión con la política.</descripcion>
+    <fecha>2019</fecha>
+    <actores>
+        <actor>Robert De Niro</actor>
+        <actor>Al Pacino</actor>
+        <actor>Joe Pesci</actor>
+        </actores>
+    <generos>
+        <genero>gangsters</genero>
+        <genero>épico</genero>
+    </generos>
+</pelicula>
